@@ -1,0 +1,10 @@
+.judul_halaman {
+    color: blue;
+    text-transform: uppercase;
+}
+
+.btn-hitam {
+    background-color: black !important;
+    color: white !important;
+}
+
